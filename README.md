@@ -18,7 +18,7 @@ Un générateur de QR Code simple en **Node.js** permettant de convertir une URL
 Clone le projet et installe les dépendances :  
 
 ```sh
-git clone https://github.com/ton-utilisateur/ProjetPerso-QRcodeGenerator.git
+git clone git@github.com:nayaji/ProjetPerso-QRcodeGenerator.git
 cd ProjetPerso-QRcodeGenerator
 npm install
 ```
